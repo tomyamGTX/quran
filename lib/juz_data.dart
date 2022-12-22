@@ -81,7 +81,7 @@ const List<Map<String, dynamic>> juz = [
     "id": 11,
     "surahs": [9, 10, 11],
     "verses": {
-      9: [92, 129],
+      9: [93, 129],
       10: [1, 109],
       11: [1, 5]
     }
