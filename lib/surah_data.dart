@@ -1,7 +1,7 @@
 const List surah = [
   {
     "id": 1,
-    "name": "Al Fatiha",
+    "name": "Al-Faatiha",
     "aya": 7,
     "english": "The Opening",
     "place": "Makkah",
@@ -9,7 +9,7 @@ const List surah = [
   },
   {
     "id": 2,
-    "name": "Al Baqarah",
+    "name": "Al-Baqara",
     "aya": 286,
     "english": "The Cow",
     "place": "Madinah",
@@ -17,7 +17,7 @@ const List surah = [
   },
   {
     "id": 3,
-    "name": "Al Imran",
+    "name": "Aal-Imraan",
     "aya": 200,
     "english": "The Family of Imran",
     "place": "Madinah",
@@ -25,7 +25,7 @@ const List surah = [
   },
   {
     "id": 4,
-    "name": "An Nisa",
+    "name": "An-Nisaa",
     "aya": 176,
     "english": "The Women",
     "place": "Madinah",
@@ -33,7 +33,7 @@ const List surah = [
   },
   {
     "id": 5,
-    "name": "Al Ma'idah",
+    "name": "Al-Maaida",
     "aya": 120,
     "english": "The Table",
     "place": "Madinah",
@@ -41,7 +41,7 @@ const List surah = [
   },
   {
     "id": 6,
-    "name": "Al An'am",
+    "name": "Al-An'aam",
     "aya": 165,
     "english": "The Cattle",
     "place": "Makkah",
@@ -49,7 +49,7 @@ const List surah = [
   },
   {
     "id": 7,
-    "name": "Al A'raf",
+    "name": "Al-A'raaf",
     "aya": 206,
     "english": "The Heights",
     "place": "Makkah",
@@ -57,7 +57,7 @@ const List surah = [
   },
   {
     "id": 8,
-    "name": "Al Anfal",
+    "name": "Al-Anfaal",
     "aya": 75,
     "english": "The Spoils of War",
     "place": "Madinah",
@@ -65,7 +65,7 @@ const List surah = [
   },
   {
     "id": 9,
-    "name": "At Tawbah",
+    "name": "At-Tawba",
     "aya": 129,
     "english": "The Repentance",
     "place": "Madinah",
@@ -73,9 +73,9 @@ const List surah = [
   },
   {
     "id": 10,
-    "name": "Al Yunus",
+    "name": "Yunus",
     "aya": 109,
-    "english": "Jonah",
+    "english": "Jonas",
     "place": "Makkah",
     "arabic": "يونس"
   },
@@ -97,7 +97,7 @@ const List surah = [
   },
   {
     "id": 13,
-    "name": "Ar Ra'd",
+    "name": "Ar-Ra'd",
     "aya": 43,
     "english": "The Thunder",
     "place": "Madinah",
@@ -113,23 +113,23 @@ const List surah = [
   },
   {
     "id": 15,
-    "name": "Al Hijr",
+    "name": "Al-Hijr",
     "aya": 99,
-    "english": "The Stoneland",
+    "english": "The Rock",
     "place": "Makkah",
     "arabic": "الحجر"
   },
   {
     "id": 16,
-    "name": "An Nahl",
+    "name": "An-Nahl",
     "aya": 128,
-    "english": "The Honey Bee",
+    "english": "The Bee",
     "place": "Makkah",
     "arabic": "النحل"
   },
   {
     "id": 17,
-    "name": "Al Isra'",
+    "name": "Al-Israa",
     "aya": 111,
     "english": "The Night Journey",
     "place": "Makkah",
@@ -137,7 +137,7 @@ const List surah = [
   },
   {
     "id": 18,
-    "name": "Al Kahf",
+    "name": "Al-Kahf",
     "aya": 110,
     "english": "The Cave",
     "place": "Makkah",
@@ -153,15 +153,15 @@ const List surah = [
   },
   {
     "id": 20,
-    "name": "Ta Ha",
+    "name": "Taa-Haa",
     "aya": 135,
-    "english": "Ta Ha",
+    "english": "Taa Haa",
     "place": "Makkah",
     "arabic": "طه"
   },
   {
     "id": 21,
-    "name": "Al Anbiya",
+    "name": "Al-Anbiyaa",
     "aya": 112,
     "english": "The Prophets",
     "place": "Makkah",
@@ -169,7 +169,7 @@ const List surah = [
   },
   {
     "id": 22,
-    "name": "Al Hajj",
+    "name": "Al-Hajj",
     "aya": 78,
     "english": "The Pilgrimage",
     "place": "Madinah",
@@ -177,7 +177,7 @@ const List surah = [
   },
   {
     "id": 23,
-    "name": "Al Mu minun",
+    "name": "Al-Muminoon",
     "aya": 118,
     "english": "The Believers",
     "place": "Makkah",
@@ -185,7 +185,7 @@ const List surah = [
   },
   {
     "id": 24,
-    "name": "An Nur",
+    "name": "An-Noor",
     "aya": 64,
     "english": "The Light",
     "place": "Madinah",
@@ -193,7 +193,7 @@ const List surah = [
   },
   {
     "id": 25,
-    "name": "Al Furqan",
+    "name": "Al-Furqaan",
     "aya": 77,
     "english": "The Criterion",
     "place": "Makkah",
@@ -201,7 +201,7 @@ const List surah = [
   },
   {
     "id": 26,
-    "name": "As Su'ara",
+    "name": "Ash-Shu'araa",
     "aya": 227,
     "english": "The Poets",
     "place": "Makkah",
@@ -209,7 +209,7 @@ const List surah = [
   },
   {
     "id": 27,
-    "name": "An Naml",
+    "name": "An-Naml",
     "aya": 93,
     "english": "The Ant",
     "place": "Makkah",
@@ -217,15 +217,15 @@ const List surah = [
   },
   {
     "id": 28,
-    "name": "Al Qasas",
+    "name": "Al-Qasas",
     "aya": 88,
-    "english": "The Narrations",
+    "english": "The Stories",
     "place": "Makkah",
     "arabic": "القصص"
   },
   {
     "id": 29,
-    "name": "Al Ankabut",
+    "name": "Al-Ankaboot",
     "aya": 69,
     "english": "The Spider",
     "place": "Makkah",
@@ -233,9 +233,9 @@ const List surah = [
   },
   {
     "id": 30,
-    "name": "Ar Rum",
+    "name": "Ar-Room",
     "aya": 60,
-    "english": "Rome",
+    "english": "The Romans",
     "place": "Makkah",
     "arabic": "الروم"
   },
@@ -249,7 +249,7 @@ const List surah = [
   },
   {
     "id": 32,
-    "name": "As Sajdah",
+    "name": "As-Sajda",
     "aya": 30,
     "english": "The Prostration",
     "place": "Makkah",
@@ -257,7 +257,7 @@ const List surah = [
   },
   {
     "id": 33,
-    "name": "Al Ahzab",
+    "name": "Al-Ahzaab",
     "aya": 73,
     "english": "The Clans",
     "place": "Madinah",
@@ -265,7 +265,7 @@ const List surah = [
   },
   {
     "id": 34,
-    "name": "Saba'",
+    "name": "Saba",
     "aya": 54,
     "english": "Sheba",
     "place": "Makkah",
@@ -273,7 +273,7 @@ const List surah = [
   },
   {
     "id": 35,
-    "name": "Fatir",
+    "name": "Faatir",
     "aya": 45,
     "english": "The Originator",
     "place": "Makkah",
@@ -281,17 +281,17 @@ const List surah = [
   },
   {
     "id": 36,
-    "name": "Ya'sin",
+    "name": "Yaseen",
     "aya": 83,
-    "english": "Ya Sin",
+    "english": "Yaseen",
     "place": "Makkah",
     "arabic": "يس"
   },
   {
     "id": 37,
-    "name": "As Saffat",
+    "name": "As-Saaffaat",
     "aya": 182,
-    "english": "Those Who Set The Ranks",
+    "english": "Those Wdrawn up in Ranks",
     "place": "Makkah",
     "arabic": "الصافات"
   },
@@ -299,21 +299,21 @@ const List surah = [
     "id": 38,
     "name": "Saad",
     "aya": 88,
-    "english": "Ṣād",
+    "english": "The letter Saad",
     "place": "Makkah",
     "arabic": "ص"
   },
   {
     "id": 39,
-    "name": "Az Zumar",
+    "name": "Az-Zumar",
     "aya": 75,
-    "english": "The Crowds",
+    "english": "The Groups",
     "place": "Makkah",
     "arabic": "الزمر"
   },
   {
     "id": 40,
-    "name": "Ghafir",
+    "name": "Al-Ghaafir",
     "aya": 85,
     "english": "The Forgiver",
     "place": "Makkah",
@@ -323,29 +323,29 @@ const List surah = [
     "id": 41,
     "name": "Fussilat",
     "aya": 54,
-    "english": "Expounded",
+    "english": "Explain in detail",
     "place": "Makkah",
     "arabic": "فصلت"
   },
   {
     "id": 42,
-    "name": "As Sura",
+    "name": "Ash-Shura",
     "aya": 53,
-    "english": "The Consultation",
+    "english": "Consultation",
     "place": "Makkah",
     "arabic": "الشورى"
   },
   {
     "id": 43,
-    "name": "Az Zukhruf",
+    "name": "Az-Zukhruf",
     "aya": 89,
-    "english": "The Gold Adornments",
+    "english": "Ornaments of gold",
     "place": "Makkah",
     "arabic": "الزخرف"
   },
   {
     "id": 44,
-    "name": "Ad Dukhan",
+    "name": "Ad-Dukhaan",
     "aya": 59,
     "english": "The Smoke",
     "place": "Makkah",
@@ -353,17 +353,17 @@ const List surah = [
   },
   {
     "id": 45,
-    "name": "Al Jaathiyah",
+    "name": "Al-Jaathiya",
     "aya": 37,
-    "english": "The Kneeling Down",
+    "english": "Crouching",
     "place": "Makkah",
     "arabic": "الجاثية"
   },
   {
     "id": 46,
-    "name": "Al Ahqaf",
+    "name": "Al-Ahqaf",
     "aya": 35,
-    "english": "Winding Sand tracts",
+    "english": "The Dunes",
     "place": "Makkah",
     "arabic": "الأحقاف"
   },
@@ -377,7 +377,7 @@ const List surah = [
   },
   {
     "id": 48,
-    "name": "Al Fath",
+    "name": "Al-Fath",
     "aya": 29,
     "english": "The Victory",
     "place": "Madinah",
@@ -385,9 +385,9 @@ const List surah = [
   },
   {
     "id": 49,
-    "name": "Al Hujurut",
+    "name": "Al-Hujuraat",
     "aya": 18,
-    "english": "The Private Apartments",
+    "english": "The Inner Apartments",
     "place": "Madinah",
     "arabic": "الحجرات"
   },
@@ -395,21 +395,21 @@ const List surah = [
     "id": 50,
     "name": "Qaaf",
     "aya": 45,
-    "english": "Q̈āf",
+    "english": "The letter Qaaf",
     "place": "Makkah",
     "arabic": "ق"
   },
   {
     "id": 51,
-    "name": "Ad Dariyat",
+    "name": "Adh-Dhaariyat",
     "aya": 60,
-    "english": "The Wind That Scatter",
+    "english": "The Winnowing Wind",
     "place": "Makkah",
     "arabic": "الذاريات"
   },
   {
     "id": 52,
-    "name": "At Toor",
+    "name": "At-Tur",
     "aya": 49,
     "english": "The Mount",
     "place": "Makkah",
@@ -417,7 +417,7 @@ const List surah = [
   },
   {
     "id": 53,
-    "name": "An Najm",
+    "name": "An-Najm",
     "aya": 62,
     "english": "The Star",
     "place": "Makkah",
@@ -425,7 +425,7 @@ const List surah = [
   },
   {
     "id": 54,
-    "name": "Al Qamar",
+    "name": "Al-Qamar",
     "aya": 55,
     "english": "The Moon",
     "place": "Makkah",
@@ -433,15 +433,15 @@ const List surah = [
   },
   {
     "id": 55,
-    "name": "Ar Rahman",
+    "name": "Ar-Rahmaan",
     "aya": 78,
-    "english": "The Most Merciful",
+    "english": "The Beneficentl",
     "place": "Madinah",
     "arabic": "الرحمن"
   },
   {
     "id": 56,
-    "name": "Al Waqiah",
+    "name": "Al-Waaqia",
     "aya": 96,
     "english": "The Inevitable",
     "place": "Makkah",
@@ -449,7 +449,7 @@ const List surah = [
   },
   {
     "id": 57,
-    "name": "Al Hadeed",
+    "name": "Al-Hadid",
     "aya": 29,
     "english": "The Iron",
     "place": "Madinah",
@@ -457,31 +457,31 @@ const List surah = [
   },
   {
     "id": 58,
-    "name": "Al Mujadila",
+    "name": "Al-Mujaadila",
     "aya": 22,
-    "english": "The Pleading",
+    "english": "The Pleading Woman",
     "place": "Madinah",
     "arabic": "المجادلة"
   },
   {
     "id": 59,
-    "name": "Al Hashr",
+    "name": "Al-Hashr",
     "aya": 24,
-    "english": "The Mustering",
-    "place": "Manidah",
+    "english": "The Exile",
+    "place": "Madinah",
     "arabic": "الحشر"
   },
   {
     "id": 60,
-    "name": "Al Mumtahanah",
+    "name": "Al-Mumtahana",
     "aya": 13,
-    "english": "The Examined One",
+    "english": "She that is to be examined",
     "place": "Madinah",
     "arabic": "الممتحنة"
   },
   {
     "id": 61,
-    "name": "As Saff",
+    "name": "As-Saff",
     "aya": 14,
     "english": "The Ranks",
     "place": "Madinah",
@@ -489,15 +489,15 @@ const List surah = [
   },
   {
     "id": 62,
-    "name": "Al Jumu'ah",
+    "name": "Al-Jumu'a",
     "aya": 11,
-    "english": "Congregation (Friday)",
+    "english": "Friday",
     "place": "Madinah",
     "arabic": "الجمعة"
   },
   {
     "id": 63,
-    "name": "Al Munafiqoon",
+    "name": "Al-Munaafiqoon",
     "aya": 11,
     "english": "The Hypocrites",
     "place": "Madinah",
@@ -505,15 +505,15 @@ const List surah = [
   },
   {
     "id": 64,
-    "name": "At Taghabun",
+    "name": "At-Taghaabun",
     "aya": 18,
-    "english": "The Cheating",
+    "english": "Mutual Disillusion",
     "place": "Madinah",
     "arabic": "التغابن"
   },
   {
     "id": 65,
-    "name": "At Talaq",
+    "name": "At-Talaaq",
     "aya": 12,
     "english": "Divorce",
     "place": "Madinah",
@@ -521,7 +521,7 @@ const List surah = [
   },
   {
     "id": 66,
-    "name": "At Tahreem",
+    "name": "At-Tahrim",
     "aya": 12,
     "english": "The Prohibition",
     "place": "Madinah",
@@ -529,15 +529,15 @@ const List surah = [
   },
   {
     "id": 67,
-    "name": "Al Mulk",
+    "name": "Al-Mulk",
     "aya": 30,
-    "english": "The Dominion",
+    "english": "The Sovereignty",
     "place": "Makkah",
     "arabic": "الملك"
   },
   {
     "id": 68,
-    "name": "Al Qalam",
+    "name": "Al-Qalam",
     "aya": 52,
     "english": "The Pen",
     "place": "Makkah",
@@ -545,17 +545,17 @@ const List surah = [
   },
   {
     "id": 69,
-    "name": "Al Haaqqah",
+    "name": "Al Haaqqa",
     "aya": 52,
-    "english": "The Sure Reality",
+    "english": "The Reality",
     "place": "Makkah",
     "arabic": "الحاقة"
   },
   {
     "id": 70,
-    "name": "Al Ma'arij",
+    "name": "Al-Ma'aarij",
     "aya": 44,
-    "english": "The Ways of Ascent",
+    "english": "The Ascending Stairways",
     "place": "Makkah",
     "arabic": "المعارج"
   },
@@ -569,7 +569,7 @@ const List surah = [
   },
   {
     "id": 72,
-    "name": "Al Jinn",
+    "name": "Al-Jinn",
     "aya": 28,
     "english": "The Jinn",
     "place": "makkah",
@@ -577,57 +577,57 @@ const List surah = [
   },
   {
     "id": 73,
-    "name": "Al Muzammil",
+    "name": "Al-Muzzammil",
     "aya": 20,
-    "english": "The Enfolded One",
+    "english": "The Enshrouded One",
     "place": "Makkah",
     "arabic": "المزمل"
   },
   {
     "id": 74,
-    "name": "Al Muddathir",
+    "name": "Al-Muddaththir",
     "aya": 56,
-    "english": "The One Wrapped Up",
+    "english": "The Cloaked One",
     "place": "Makkah",
     "arabic": "المدثر"
   },
   {
     "id": 75,
-    "name": "Al Qiyamah",
+    "name": "Al-Qiyaama",
     "aya": 40,
-    "english": "Resurrection",
+    "english": "The Resurrection",
     "place": "Makkah",
     "arabic": "القيامة"
   },
   {
     "id": 76,
-    "name": "Al Insaan",
+    "name": "Al-Insaan",
     "aya": 31,
-    "english": "The Human",
+    "english": "Man",
     "place": "Madinah",
     "arabic": "الانسان"
   },
   {
     "id": 77,
-    "name": "Al Mursalat",
+    "name": "Al-Mursalaat",
     "aya": 50,
-    "english": "Those Sent Forth",
+    "english": "The Emissaries",
     "place": "Makkah",
     "arabic": "المرسلات"
   },
   {
     "id": 78,
-    "name": "An Naba",
+    "name": "An-Naba",
     "aya": 40,
-    "english": "The Great News",
+    "english": "The Annoucement",
     "place": "Makkah",
     "arabic": "النبإ"
   },
   {
     "id": 79,
-    "name": "An Naaziat",
+    "name": "An-Naazi'aat",
     "aya": 46,
-    "english": "Those Who Tear Out",
+    "english": "Those Who Drag Forth",
     "place": "Makkah",
     "arabic": "النازعات"
   },
@@ -641,39 +641,39 @@ const List surah = [
   },
   {
     "id": 81,
-    "name": "At Takweer",
+    "name": "At-Takwir",
     "aya": 29,
-    "english": "The Folding Up",
+    "english": "The Overthrowing",
     "place": "Makkah",
     "arabic": "التكوير"
   },
   {
     "id": 82,
-    "name": "Al Infitar",
+    "name": "Al-Infitaar",
     "aya": 19,
-    "english": "The Overthrowing",
+    "english": "The Cleaving",
     "place": "Makkah",
     "arabic": "الإنفطار"
   },
   {
     "id": 83,
-    "name": "Al Mutaffifin",
+    "name": "Al-Mutaffifin",
     "aya": 36,
-    "english": "The Cleaving Asunder",
+    "english": "Defrauding",
     "place": "Makkah",
     "arabic": "المطففين"
   },
   {
     "id": 84,
-    "name": "Al Inshiqaaq",
+    "name": "Al-Inshiqaaq",
     "aya": 25,
-    "english": "The Dealers in Fraud",
+    "english": "The Splitting Open",
     "place": "Makkah",
     "arabic": "الإنشقاق"
   },
   {
     "id": 85,
-    "name": "Al Burooj",
+    "name": "Al-Burooj",
     "aya": 22,
     "english": "The Constellations",
     "place": "Makkah",
@@ -681,7 +681,7 @@ const List surah = [
   },
   {
     "id": 86,
-    "name": "At Taariq",
+    "name": "At-Taariq",
     "aya": 17,
     "english": "The Morning Star",
     "place": "Makkah",
@@ -689,7 +689,7 @@ const List surah = [
   },
   {
     "id": 87,
-    "name": "Al A'laa",
+    "name": "Al-A'laa",
     "aya": 19,
     "english": "The Most High",
     "place": "Makkah",
@@ -697,23 +697,23 @@ const List surah = [
   },
   {
     "id": 88,
-    "name": "Al Ghaashiyah",
+    "name": "Al-Ghaashiyaa",
     "aya": 26,
-    "english": "The Overwhelming Event",
+    "english": "The Overwhelming",
     "place": "Makkah",
     "arabic": "الغاشية"
   },
   {
     "id": 89,
-    "name": "Al Fajr",
+    "name": "Al-Fajr",
     "aya": 30,
-    "english": "The Daybreak",
+    "english": "The Dawn",
     "place": "Makkah",
     "arabic": "الفجر"
   },
   {
     "id": 90,
-    "name": "Al Balad",
+    "name": "Al-Balad",
     "aya": 20,
     "english": "The City",
     "place": "Makkah",
@@ -721,7 +721,7 @@ const List surah = [
   },
   {
     "id": 91,
-    "name": "Ash Shams",
+    "name": "Ash-Shams",
     "aya": 15,
     "english": "The Sun",
     "place": "Makkah",
@@ -729,7 +729,7 @@ const List surah = [
   },
   {
     "id": 92,
-    "name": "Al Layl",
+    "name": "Al-Lail",
     "aya": 21,
     "english": "The Night",
     "place": "Makkah",
@@ -737,55 +737,55 @@ const List surah = [
   },
   {
     "id": 93,
-    "name": "Ad Dhuha",
+    "name": "Ad-Dhuhaa",
     "aya": 11,
-    "english": "The Glorious Morning Light",
+    "english": "The Morning Hours",
     "place": "Makkah",
     "arabic": "الضحى"
   },
   {
     "id": 94,
-    "name": "Ash Sharh",
+    "name": "Ash-Sharh",
     "aya": 8,
-    "english": "The Opening Up of the Heart",
+    "english": "The Consolation",
     "place": "Makkah",
     "arabic": "الشرح"
   },
   {
     "id": 95,
-    "name": "At Teen",
+    "name": "At-Tin",
     "aya": 8,
-    "english": "The Fig Tree",
+    "english": "The Fig",
     "place": "Makkah",
     "arabic": "التين"
   },
   {
     "id": 96,
-    "name": "Al Alaq",
+    "name": "Al-Alaq",
     "aya": 19,
-    "english": "The Clinging Clot",
+    "english": "The Clot",
     "place": "Makkah",
     "arabic": "العلق"
   },
   {
     "id": 97,
-    "name": "Al Qadr",
+    "name": "Al-Qadr",
     "aya": 5,
-    "english": "The Night of Honor",
+    "english": "The Power, Fate",
     "place": "Makkah",
     "arabic": "القدر"
   },
   {
     "id": 98,
-    "name": "Al Bayyinah",
+    "name": "Al-Bayyina",
     "aya": 8,
-    "english": "The Clear Evidence",
+    "english": "The Evidence",
     "place": "Madinah",
     "arabic": "البينة"
   },
   {
     "id": 99,
-    "name": "Az Zalzalah",
+    "name": "Az-Zalzala",
     "aya": 8,
     "english": "The Earthquake",
     "place": "Madinah",
@@ -793,47 +793,47 @@ const List surah = [
   },
   {
     "id": 100,
-    "name": "Al Aadiyaat",
+    "name": "Al-Aadiyaat",
     "aya": 11,
-    "english": "The Courser",
+    "english": "The Chargers",
     "place": "Makkah",
     "arabic": "العاديات"
   },
   {
     "id": 101,
-    "name": "Al Qaari'ah",
+    "name": "Al-Qaari'a",
     "aya": 11,
-    "english": "The Striking Hour",
+    "english": "The Calamity",
     "place": "Makkah",
     "arabic": "القارعة"
   },
   {
     "id": 102,
-    "name": "At Takaathur",
+    "name": "At-Takaathur",
     "aya": 8,
-    "english": "The Piling Up",
+    "english": "Competition",
     "place": "Makkah",
     "arabic": "التكاثر"
   },
   {
     "id": 103,
-    "name": "Al Asr",
+    "name": "Al-Asr",
     "aya": 3,
-    "english": "The Time",
+    "english": "The Declining Day, Epoch",
     "place": "Makkah",
     "arabic": "العصر"
   },
   {
     "id": 104,
-    "name": "Al Humazah",
+    "name": "Al-Humaza",
     "aya": 9,
-    "english": "The Scandalmonger",
+    "english": "The Traducer",
     "place": "Makkah",
     "arabic": "الهمزة"
   },
   {
     "id": 105,
-    "name": "Al Feel",
+    "name": "Al-Fil",
     "aya": 5,
     "english": "The Elephant",
     "place": "Makkah",
@@ -841,7 +841,7 @@ const List surah = [
   },
   {
     "id": 106,
-    "name": "Quraysh",
+    "name": "Quraish",
     "aya": 4,
     "english": "The Quraysh",
     "place": "Makkah",
@@ -849,15 +849,15 @@ const List surah = [
   },
   {
     "id": 107,
-    "name": "Al Maa'oon",
+    "name": "Al-Maa'un",
     "aya": 7,
-    "english": "The Neighbourly Assistance",
+    "english": "Aimsgiving",
     "place": "Makkah",
     "arabic": "الماعون"
   },
   {
     "id": 108,
-    "name": "Al Kawthar",
+    "name": "Al-Kawthar",
     "aya": 3,
     "english": "Abundance",
     "place": "Makkah",
@@ -865,7 +865,7 @@ const List surah = [
   },
   {
     "id": 109,
-    "name": "Al Kaafiroon",
+    "name": "Al-Kaafiroon",
     "aya": 6,
     "english": "The Disbelievers",
     "place": "Makkah",
@@ -873,39 +873,39 @@ const List surah = [
   },
   {
     "id": 110,
-    "name": "An Nasr",
+    "name": "An-Nasr",
     "aya": 3,
-    "english": "The Help",
+    "english": "The Divine Support",
     "place": "Madinah",
     "arabic": "النصر"
   },
   {
     "id": 111,
-    "name": "Al Masad",
+    "name": "Al-Masad",
     "aya": 5,
-    "english": "The Plaited Rope",
+    "english": "The Palm Fibre",
     "place": "Makkah",
     "arabic": "اللهب"
   },
   {
     "id": 112,
-    "name": "Al Ikhlaas",
+    "name": "Al-Ikhlaas",
     "aya": 4,
-    "english": "Purity of Faith",
+    "english": "Sincerity",
     "place": "Makkah",
     "arabic": "الإخلاص"
   },
   {
     "id": 113,
-    "name": "Al Falaq",
+    "name": "Al-Falaq",
     "aya": 5,
-    "english": "The Rising Dawn",
+    "english": "The Dawn",
     "place": "Makkah",
     "arabic": "الفلق"
   },
   {
     "id": 114,
-    "name": "An Naas",
+    "name": "An-Naas",
     "aya": 6,
     "english": "Mankind",
     "place": "Makkah",
