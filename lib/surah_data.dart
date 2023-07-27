@@ -1,11 +1,12 @@
 const List surah = [
   {
     "id": 1,
-    "name": "Al-Faatiha",
+    "name": "AL-FAATIHAH",
     "aya": 7,
+    "malay": "Pembuka"
     "english": "The Opening",
     "place": "Makkah",
-    "arabic": "الفاتحة"
+    "arabic": "الفَاتِحَة"
   },
   {
     "id": 2,
