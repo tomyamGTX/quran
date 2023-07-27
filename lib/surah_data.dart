@@ -3,7 +3,7 @@ const List surah = [
     "id": 1,
     "name": "AL-FAATIHAH",
     "aya": 7,
-    "malay": "Pembuka"
+    "malay": "Pembuka",
     "english": "The Opening",
     "place": "Makkah",
     "arabic": "الفَاتِحَة"
